@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/pool
+      uri: mongodb://pool-db-mongo:27017/pool
