@@ -1,3 +1,5 @@
-feign:
-  hystrix:
-    enabled: true
+common.params:
+  duration: 30
+  timeOpen: '9:00'
+  timeClose: '22:00'
+  defaultDepth: 14
